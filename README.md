@@ -40,5 +40,5 @@ blossom builds upon the minimalist philosophy of sakura but adds modern refineme
 2. Link it from HTML:
 
     ```html
-    <link rel="stylesheet" href="=blossom.css" type="text/css">
+    <link rel="stylesheet" href="blossom.css" type="text/css">
     ```
