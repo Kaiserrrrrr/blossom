@@ -1,4 +1,4 @@
-# 🌸 Blossom.css
+# 🌸 Blossom
 
 **A lush, classless, and fully semantic CSS framework.** *An evolution of [sakura](https://github.com/oxalorg/sakura) with a focus on modern semantics and fluid design.*
 
